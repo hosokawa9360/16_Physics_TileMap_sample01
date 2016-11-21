@@ -1,15 +1,10 @@
-# 15_Physics_Chipmunk2d_sample02
+# 16_Physics_TileMap_sample01
 
-サンプルからコードを変更していく
+物理エンジンとTiledMapを用いた横スクロール  
 
-## 1. frameworksを v3.8　に更新
-https://github.com/cocos2d/cocos2d-html5　から取ってきたdeveloper版に交換した
-
-および、隠し地面を設定し、Chipmunkのエラーが出ないようにした
+## 1. frameworksを v3.12　で実装
 
 
-## 2. 12_Physics_Chipmunk2d_jsのようにタッチリスナーを改造したい
-https://github.com/hosokawa9360/12_Physics_Chipmunk2d_js
+## 2. TiledMapの読み込みを実装
 
-
-## 3.　衝突イベントリスナーを変更し実装したい　
+## 3.　衝突イベントリスナーを実装　
